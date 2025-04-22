@@ -5,9 +5,10 @@ author: |
   | Penn State University
 date: | 
   | NZSA Visiting Lecturer Seminar
-  | University of Canterbury
+  | Shayle Searle Visitor
+  | Victoria University of Wellington
   | 
-  | April 16, 2025
+  | April 23, 2025
 
 
 output:
@@ -575,6 +576,7 @@ U.S. Department of Education, Office of Educational Technology (2023). *Artifici
 - US National Science Foundation (NSF DUE-2236150: Project CLASSIFIES)
 - Penn State Center for Socially Responsible Artificial Intelligence
 - Strategic partnership between University of Auckland and Penn State University
+- Shayle Searle Visitor Fund
 - Thanks to students and faculty at partner institutions that have assisted us with data collection.
 
 

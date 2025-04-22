@@ -1,11 +1,11 @@
 ---
-title: "NZSA Visiting Lecture Series"
+title: "Shayle Searle Visitor & NZSA Visiting Lecturer"
 subtitle: | 
+  | Victoria University of Wellington
   | New Zealand Statistical Association
 date: |
   | 
-  | University of Canterbury
-  | April 16, 2025
+  | April 23, 2025
   | 
   | 
 output: 
@@ -41,8 +41,7 @@ Research sponsored by:
 Travel support sponsored in part by:
 
 - New Zealand Statistical Association
-- Host Universities
-
+- Shayle Searle Visitor Fund
 
 ## Contact & Short Bio
 
@@ -54,4 +53,4 @@ Director | CAUSE ([causeweb.org](https://causeweb.org))
 [mdbeckman.github.io](https://mdbeckman.github.io/)  
 
 
-Matt Beckman is an Associate Research Professor of Statistics at Penn State University, Director of the Consortium for the Advancement of Undergraduate Statistics Education (CAUSE), and 2025 NZSA Visiting Lecturer.  He is co-founder of a Statistics & Data Science Education Research Lab and affiliated faculty with the Social Science Research Institute and the Center for Socially Responsible Artificial Intelligence at Penn State. Matt's primary research interests tend to focus on assessment and he is currently PI for the NSF-funded "Project CLASSIFIES" which investigates the use of NLP tools to assist instructors of large-enrollment classes with providing formative assessment feedback on short-answer, free response tasks.  
+Matt Beckman is an Associate Research Professor of Statistics at Penn State University, Director of the Consortium for the Advancement of Undergraduate Statistics Education (CAUSE), and 2025 NZSA Visiting Lecturer & VUW Shayle Searle Visitor.  He is co-founder of a Statistics & Data Science Education Research Lab and affiliated faculty with the Social Science Research Institute and the Center for Socially Responsible Artificial Intelligence at Penn State. Matt's primary research interests tend to focus on assessment and he is currently PI for the NSF-funded "Project CLASSIFIES" which investigates the use of NLP tools to assist instructors of large-enrollment classes with providing formative assessment feedback on short-answer, free response tasks.  
